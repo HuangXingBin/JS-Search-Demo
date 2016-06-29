@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "ksana2015-scaffold-default@^1.5.0",
+      "/Users/gttx/Downloads/ksana2015"
+    ]
+  ],
+  "_cnpm_publish_time": 1451192055829,
+  "_from": "ksana2015-scaffold-default@>=1.5.0 <2.0.0",
+  "_id": "ksana2015-scaffold-default@1.5.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ksana2015-scaffold-default",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "email": "yapcheahshen@gmail.com",
+    "name": "yapcheahshen"
+  },
+  "_npmVersion": "2.1.11",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ksana2015-scaffold-default",
+    "raw": "ksana2015-scaffold-default@^1.5.0",
+    "rawSpec": "^1.5.0",
+    "scope": null,
+    "spec": ">=1.5.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/ksana2015-scaffold-default/download/ksana2015-scaffold-default-1.5.1.tgz",
+  "_shasum": "df38634217d80bcb611545788af39433f2fd4f94",
+  "_shrinkwrap": null,
+  "_spec": "ksana2015-scaffold-default@^1.5.0",
+  "_where": "/Users/gttx/Downloads/ksana2015",
+  "dependencies": {},
+  "description": "New Ksana application",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "df38634217d80bcb611545788af39433f2fd4f94",
+    "size": 282295,
+    "tarball": "http://registry.npm.taobao.org/ksana2015-scaffold-default/download/ksana2015-scaffold-default-1.5.1.tgz"
+  },
+  "gitHead": "941e9733d15442d91bf8df0bd47f8e42b29fe275",
+  "inject-js-start": "nwmain.js",
+  "main": "index.html",
+  "maintainers": [
+    {
+      "email": "yapcheahshen@gmail.com",
+      "name": "yapcheahshen"
+    }
+  ],
+  "name": "ksana2015-scaffold-default",
+  "optionalDependencies": {},
+  "publish_time": 1451192055829,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuangXingBin/JS-Search-Demo"
+  },
+  "scripts": {},
+  "single-instance": true,
+  "version": "1.5.1",
+  "window": {
+    "height": 700,
+    "toolbar": true,
+    "width": 1060
+  }
+}
