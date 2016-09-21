@@ -1,0 +1,9 @@
+*.kdb
+*.xml
+*.kdbk
+
+node_modules
+
+JS-Search-Demo/Guhyagarbha
+
+JS-Search-Demo/ksana-api-tutorial/node_modules
